@@ -1,2 +1,2 @@
-# SmartHub-IoT-WebAPI
-Production-inspired ASP.NET Core Web API that manages IoT devices, processes real-time telemetry, provides analytics, secures endpoints with JWT authentication, and uses PostgreSQL, Entity Framework Core, Docker, and xUnit
+# SmartHub – IoT Telemetry & Device Management Web API
+Production-inspired ASP.NET Core Web API for IoT device management, real-time telemetry ingestion, analytics, JWT authentication, PostgreSQL, Entity Framework Core, Docker, and xUnit testing.
